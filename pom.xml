@@ -95,14 +95,14 @@
   <distributionManagement>
       <repository>
         <id>nexus</id>
-        <name>Landmark Technologies Releases Nexus Repository</name>
-        <url>http://54.227.178.32:8181/landmark/repository/tesla-be-releases/</url>
+        <name>Salvation personal Project Releases Nexus Repository</name>
+        <url>http://localhost:8081/repository/personalProject/</url>
       </repository>
       
       <snapshotRepository>
         <id>nexus</id>
-        <name>Landmark Technologies Snapshot Nexus Repository </name>
-        <url>http://54.227.178.32:8181/landmark/repository/tesla-be-snapshots/</url>
+        <name>Salvation personal Project Snapshot Nexus Repository </name>
+        <url>http://localhost:8081/repository/personalProjectSnapshot//</url>
       </snapshotRepository>
       
   </distributionManagement>
